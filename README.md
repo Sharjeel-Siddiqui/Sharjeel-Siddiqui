@@ -16,7 +16,7 @@ I specialize in both native Android and Flutter, maintaining code quality, offli
 **Android (Native)**
 - Kotlin, Java  
 - Jetpack Compose, XML Views  
-- MVVM, MVC  
+- MVVM, MVC , MVI.
 - Dagger Hilt, Retrofit, Ktor  
 - TTS, Location Services, Offline Maps (OSMDroid)
 
@@ -42,7 +42,7 @@ I specialize in both native Android and Flutter, maintaining code quality, offli
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammadsharjeelahmadsiddiqui/)  
 - 📩 sharjeel.dev@example.com *(replace this)*  
 - 🧪 [GitHub Projects](https://github.com/Sharjeel-Siddiqui?tab=repositories)
 
