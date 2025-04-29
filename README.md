@@ -43,7 +43,7 @@ I specialize in both native Android and Flutter, maintaining code quality, offli
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/muhammadsharjeelahmadsiddiqui/)  
-- 📩  sharjeelahmadsiddiqui@gmail.com *(replace this)*  
+- 📩  sharjeelahmadsiddiqui@gmail.com 
 - 🧪 [GitHub Projects](https://github.com/Sharjeel-Siddiqui?tab=repositories)
 
 ---
